@@ -1,13 +1,19 @@
 <h1> Olá! Eu sou o Douglas Freitas 😁<h1> 
 
-
-<div>
-  <a href="https://github.com/douglashvf">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglashvf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglashvf&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
+  
+  
+ <div align="center">
+   <h4>STATUS 🚧 </h4> </br>
+          <img height="150rem"  src="https://github-readme-stats.vercel.app/api?username=douglashvf&theme=swift&show_icons=true" alt="Estatísticas do Github do Doug, como quantas estrelas ele ganhou até agora ou quantos commits ele fez." style="width: 420px;"/>
+    
+<a href="https://github.com/poveii/github-readme-stats" target="_blank" rel="noreferrer noopener">
+<img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglashvf&layout=compact&theme=swift" alt="As linguagens mais usadas pelo Doug" />
+    </a>
+  </div>  
+  <hr/>
 <div style="display: inline_block" align="center"><br>
+  <h6>🌱ESTUDANDO E MELHORANDO AS LINGUAGENS:<br></h6>
+  
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,8 +21,13 @@
 </div>
 
   </br>
-
-<div align="center">   
+<hr size="6"> 
+<div align="center"> 
+  <h5>Objetivos pessoais para minha carreira em 2023:</h5><br>
+    <h8>*Primeiro Emprego 🔨</br>
+    *Inglês avançado 🔨</br></h8>
+  <hr>
+<h6>Como eu sou apaixonado por desenvolvimento, se você tiver algum projeto que queira minha participação entre em contato comigo! tem tudo logo abaixo:<br/></h6><br/>
   <a href="https://www.instagram.com/douglashvf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:douglashvf13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglas-vieira-182081187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
