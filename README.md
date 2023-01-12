@@ -4,7 +4,7 @@
   
  <div align="center">
    <h4>STATUS 🚧 </h4> </br>
-          <img height="150rem"  src="https://github-readme-stats.vercel.app/api?username=douglashvf&theme=swift&show_icons=true" alt="Estatísticas do Github do Doug, como quantas estrelas ele ganhou até agora ou quantos commits ele fez." style="width: 420px;"/>
+          [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglashvf)](https://github.com/anuraghazra/github-readme-stats)
     
 <a href="https://github.com/poveii/github-readme-stats" target="_blank" rel="noreferrer noopener">
 <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglashvf&layout=compact&theme=swift" alt="As linguagens mais usadas pelo Doug" />
